@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, /home/lemon/Documents/Git/TD_Bomba/bomba.vhd
+source_file = 1, /home/lemon/Documents/Git/TD_Bomba/db/bomba.cbx.xml
+source_file = 1, /root/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, /root/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, /root/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, /root/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = bomba
+instance = comp, \SAIDA~output\, SAIDA~output, bomba, 1
+instance = comp, \ENTRADA~input\, ENTRADA~input, bomba, 1

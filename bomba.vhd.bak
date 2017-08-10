@@ -1,0 +1,9 @@
+entity bomba is
+    port(
+
+    );
+end bomba;
+
+architecture arch_bomba of bomba is 
+    
+end arch_bomba;

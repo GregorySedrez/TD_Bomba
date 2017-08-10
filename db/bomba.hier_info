@@ -1,0 +1,5 @@
+|bomba
+ENTRADA => ~NO_FANOUT~
+SAIDA <= <GND>
+
+
