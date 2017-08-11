@@ -36,7 +36,7 @@
     (INSTANCE \\SAIDA\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2612:2612:2612) (2612:2612:2612))
+        (IOPATH datain padio (1388:1388:1388) (1388:1388:1388))
       )
     )
   )
@@ -45,7 +45,7 @@
     (INSTANCE \\DISPLAY0_contador\[0\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -54,7 +54,7 @@
     (INSTANCE \\DISPLAY0_contador\[1\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -63,7 +63,7 @@
     (INSTANCE \\DISPLAY0_contador\[2\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2622:2622:2622) (2622:2622:2622))
+        (IOPATH datain padio (1398:1398:1398) (1398:1398:1398))
       )
     )
   )
@@ -72,7 +72,7 @@
     (INSTANCE \\DISPLAY0_contador\[3\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -81,7 +81,7 @@
     (INSTANCE \\DISPLAY0_contador\[4\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -90,7 +90,7 @@
     (INSTANCE \\DISPLAY0_contador\[5\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -99,7 +99,7 @@
     (INSTANCE \\DISPLAY0_contador\[6\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2612:2612:2612) (2612:2612:2612))
+        (IOPATH datain padio (1388:1388:1388) (1388:1388:1388))
       )
     )
   )
@@ -108,7 +108,7 @@
     (INSTANCE \\DISPLAY1_contador\[0\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2632:2632:2632) (2632:2632:2632))
+        (IOPATH datain padio (1408:1408:1408) (1408:1408:1408))
       )
     )
   )
@@ -117,7 +117,7 @@
     (INSTANCE \\DISPLAY1_contador\[1\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -126,7 +126,7 @@
     (INSTANCE \\DISPLAY1_contador\[2\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -135,7 +135,7 @@
     (INSTANCE \\DISPLAY1_contador\[3\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -144,7 +144,7 @@
     (INSTANCE \\DISPLAY1_contador\[4\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2632:2632:2632) (2632:2632:2632))
+        (IOPATH datain padio (1408:1408:1408) (1408:1408:1408))
       )
     )
   )
@@ -153,7 +153,7 @@
     (INSTANCE \\DISPLAY1_contador\[5\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2612:2612:2612) (2612:2612:2612))
+        (IOPATH datain padio (1388:1388:1388) (1388:1388:1388))
       )
     )
   )
@@ -162,7 +162,7 @@
     (INSTANCE \\DISPLAY1_contador\[6\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -171,7 +171,7 @@
     (INSTANCE \\DISPLAY_frase\[0\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -180,7 +180,7 @@
     (INSTANCE \\DISPLAY_frase\[1\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2642:2642:2642) (2642:2642:2642))
+        (IOPATH datain padio (1418:1418:1418) (1418:1418:1418))
       )
     )
   )
@@ -189,7 +189,7 @@
     (INSTANCE \\DISPLAY_frase\[2\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2602:2602:2602) (2602:2602:2602))
+        (IOPATH datain padio (1378:1378:1378) (1378:1378:1378))
       )
     )
   )
@@ -198,7 +198,7 @@
     (INSTANCE \\DISPLAY_frase\[3\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2642:2642:2642) (2642:2642:2642))
+        (IOPATH datain padio (1418:1418:1418) (1418:1418:1418))
       )
     )
   )
@@ -207,7 +207,7 @@
     (INSTANCE \\DISPLAY_frase\[4\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2612:2612:2612) (2612:2612:2612))
+        (IOPATH datain padio (1388:1388:1388) (1388:1388:1388))
       )
     )
   )
@@ -216,7 +216,7 @@
     (INSTANCE \\DISPLAY_frase\[5\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -225,7 +225,7 @@
     (INSTANCE \\DISPLAY_frase\[6\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2622:2622:2622) (2622:2622:2622))
+        (IOPATH datain padio (1398:1398:1398) (1398:1398:1398))
       )
     )
   )
@@ -234,7 +234,7 @@
     (INSTANCE \\DISPLAY_frase\[7\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -243,7 +243,7 @@
     (INSTANCE \\DISPLAY_frase\[8\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -252,7 +252,7 @@
     (INSTANCE \\DISPLAY_frase\[9\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -261,7 +261,7 @@
     (INSTANCE \\DISPLAY_frase\[10\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -270,7 +270,7 @@
     (INSTANCE \\DISPLAY_frase\[11\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2798:2798:2798) (2798:2798:2798))
+        (IOPATH datain padio (1543:1543:1543) (1543:1543:1543))
       )
     )
   )
@@ -279,7 +279,7 @@
     (INSTANCE \\DISPLAY_frase\[12\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2758:2758:2758) (2758:2758:2758))
+        (IOPATH datain padio (1503:1503:1503) (1503:1503:1503))
       )
     )
   )
@@ -288,7 +288,7 @@
     (INSTANCE \\DISPLAY_frase\[13\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -297,7 +297,7 @@
     (INSTANCE \\DISPLAY_frase\[14\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -306,7 +306,7 @@
     (INSTANCE \\DISPLAY_frase\[15\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -315,7 +315,7 @@
     (INSTANCE \\DISPLAY_frase\[16\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2622:2622:2622) (2622:2622:2622))
+        (IOPATH datain padio (1398:1398:1398) (1398:1398:1398))
       )
     )
   )
@@ -324,7 +324,7 @@
     (INSTANCE \\DISPLAY_frase\[17\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -333,7 +333,7 @@
     (INSTANCE \\DISPLAY_frase\[18\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2798:2798:2798) (2798:2798:2798))
+        (IOPATH datain padio (1543:1543:1543) (1543:1543:1543))
       )
     )
   )
@@ -342,7 +342,7 @@
     (INSTANCE \\DISPLAY_frase\[19\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2632:2632:2632) (2632:2632:2632))
+        (IOPATH datain padio (1408:1408:1408) (1408:1408:1408))
       )
     )
   )
@@ -351,7 +351,7 @@
     (INSTANCE \\DISPLAY_frase\[20\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2758:2758:2758) (2758:2758:2758))
+        (IOPATH datain padio (1503:1503:1503) (1503:1503:1503))
       )
     )
   )
@@ -360,7 +360,7 @@
     (INSTANCE \\DISPLAY_frase\[21\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2612:2612:2612) (2612:2612:2612))
+        (IOPATH datain padio (1388:1388:1388) (1388:1388:1388))
       )
     )
   )
@@ -369,7 +369,7 @@
     (INSTANCE \\DISPLAY_frase\[22\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2632:2632:2632) (2632:2632:2632))
+        (IOPATH datain padio (1408:1408:1408) (1408:1408:1408))
       )
     )
   )
@@ -378,7 +378,7 @@
     (INSTANCE \\DISPLAY_frase\[23\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -387,7 +387,7 @@
     (INSTANCE \\DISPLAY_frase\[24\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2642:2642:2642) (2642:2642:2642))
+        (IOPATH datain padio (1418:1418:1418) (1418:1418:1418))
       )
     )
   )
@@ -396,7 +396,7 @@
     (INSTANCE \\DISPLAY_frase\[25\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -405,7 +405,7 @@
     (INSTANCE \\DISPLAY_frase\[26\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2602:2602:2602) (2602:2602:2602))
+        (IOPATH datain padio (1378:1378:1378) (1378:1378:1378))
       )
     )
   )
@@ -414,7 +414,7 @@
     (INSTANCE \\DISPLAY_frase\[27\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -423,7 +423,7 @@
     (INSTANCE \\DISPLAY_frase\[28\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2632:2632:2632) (2632:2632:2632))
+        (IOPATH datain padio (1408:1408:1408) (1408:1408:1408))
       )
     )
   )
@@ -432,7 +432,7 @@
     (INSTANCE \\DISPLAY_frase\[29\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2612:2612:2612) (2612:2612:2612))
+        (IOPATH datain padio (1388:1388:1388) (1388:1388:1388))
       )
     )
   )
@@ -441,7 +441,7 @@
     (INSTANCE \\DISPLAY_frase\[30\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -450,7 +450,7 @@
     (INSTANCE \\DISPLAY_frase\[31\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -459,7 +459,7 @@
     (INSTANCE \\DISPLAY_frase\[32\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -468,7 +468,7 @@
     (INSTANCE \\DISPLAY_frase\[33\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -477,7 +477,7 @@
     (INSTANCE \\DISPLAY_frase\[34\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -486,7 +486,7 @@
     (INSTANCE \\DISPLAY_frase\[35\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -495,7 +495,7 @@
     (INSTANCE \\DISPLAY_frase\[36\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -504,7 +504,7 @@
     (INSTANCE \\DISPLAY_frase\[37\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2788:2788:2788) (2788:2788:2788))
+        (IOPATH datain padio (1533:1533:1533) (1533:1533:1533))
       )
     )
   )
@@ -513,7 +513,7 @@
     (INSTANCE \\DISPLAY_frase\[38\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )
@@ -522,7 +522,7 @@
     (INSTANCE \\DISPLAY_frase\[39\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -531,7 +531,7 @@
     (INSTANCE \\DISPLAY_frase\[40\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2778:2778:2778) (2778:2778:2778))
+        (IOPATH datain padio (1523:1523:1523) (1523:1523:1523))
       )
     )
   )
@@ -540,7 +540,7 @@
     (INSTANCE \\DISPLAY_frase\[41\]\~I\\.asynch_inst)
     (DELAY
       (ABSOLUTE
-        (IOPATH datain padio (2768:2768:2768) (2768:2768:2768))
+        (IOPATH datain padio (1513:1513:1513) (1513:1513:1513))
       )
     )
   )

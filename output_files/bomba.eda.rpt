@@ -1,5 +1,5 @@
 EDA Netlist Writer report for bomba
-Thu Aug 10 16:58:20 2017
+Thu Aug 10 17:51:27 2017
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -36,10 +36,10 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Thu Aug 10 16:58:20 2017 ;
+; EDA Netlist Writer Status ; Successful - Thu Aug 10 17:51:27 2017 ;
 ; Revision Name             ; bomba                                 ;
 ; Top-level Entity Name     ; bomba                                 ;
-; Family                    ; Cyclone IV GX                         ;
+; Family                    ; Cyclone II                            ;
 ; Simulation Files Creation ; Successful                            ;
 +---------------------------+---------------------------------------+
 
@@ -66,20 +66,16 @@ applicable agreement for further details.
 +---------------------------------------------------------------------------------------------------+------------------------+
 
 
-+-----------------------------------------------------------------------------------------+
-; Simulation Generated Files                                                              ;
-+-----------------------------------------------------------------------------------------+
-; Generated Files                                                                         ;
-+-----------------------------------------------------------------------------------------+
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_6_1200mv_85c_slow.vho      ;
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_6_1200mv_0c_slow.vho       ;
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_min_1200mv_0c_fast.vho     ;
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba.vho                        ;
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_6_1200mv_85c_vhd_slow.sdo  ;
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_6_1200mv_0c_vhd_slow.sdo   ;
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_min_1200mv_0c_vhd_fast.sdo ;
-; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_vhd.sdo                    ;
-+-----------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------+
+; Simulation Generated Files                                                ;
++---------------------------------------------------------------------------+
+; Generated Files                                                           ;
++---------------------------------------------------------------------------+
+; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba.vho          ;
+; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_fast.vho     ;
+; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_vhd.sdo      ;
+; /home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/bomba_vhd_fast.sdo ;
++---------------------------------------------------------------------------+
 
 
 +-----------------------------+
@@ -88,19 +84,12 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit EDA Netlist Writer
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Thu Aug 10 16:58:18 2017
+    Info: Processing started: Thu Aug 10 17:51:26 2017
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off bomba -c bomba
-Info (204019): Generated file bomba_6_1200mv_85c_slow.vho in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file bomba_6_1200mv_0c_slow.vho in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file bomba_min_1200mv_0c_fast.vho in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file bomba.vho in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file bomba_6_1200mv_85c_vhd_slow.sdo in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file bomba_6_1200mv_0c_vhd_slow.sdo in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file bomba_min_1200mv_0c_vhd_fast.sdo in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
-Info (204019): Generated file bomba_vhd.sdo in folder "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
+Info (204026): Generated files "bomba.vho", "bomba_fast.vho", "bomba_vhd.sdo" and "bomba_vhd_fast.sdo" in directory "/home/lemon/Documents/Git/TD_Bomba/simulation/modelsim/" for EDA simulation tool
 Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 855 megabytes
-    Info: Processing ended: Thu Aug 10 16:58:20 2017
+    Info: Peak virtual memory: 804 megabytes
+    Info: Processing ended: Thu Aug 10 17:51:28 2017
     Info: Elapsed time: 00:00:02
     Info: Total CPU time (on all processors): 00:00:02
 
