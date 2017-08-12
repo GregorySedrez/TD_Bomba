@@ -1,0 +1,37 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_arith.all;
+use IEE.std_logic_unsigned.all;
+
+entity div_frequencia is
+	port(
+	
+	Fio1, Fio2, Fio3, clock  : in std_logic;
+	clock_sistema : out std_logic
+	);
+end div_frequencia;
+
+architecture arq_div_frequncia of div_frequencia is
+begin
+	process(clock, reset)
+	variable contador;
+	begin
+		if (reset = '1') then
+			contador:=0;
+		end if;
+		
+		if(fio1=0) then 
+			clock_sistema= '1';
+			reset= '1';
+			if (clock'event and clock='1') then
+				contador=contador+1;
+			end if;
+			if
+			
+			
+	
+	
+	
+	
+	
+end arq_div_frequncia;
